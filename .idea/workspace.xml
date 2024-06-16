@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf74f133-cab5-4371-b66d-c70c09564223" name="Changes" comment="use ai" />
+    <list default="true" id="bf74f133-cab5-4371-b66d-c70c09564223" name="Changes" comment="use ai">
+      <change beforePath="$PROJECT_DIR$/berts/procces_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/berts/procces_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/berts/write_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/berts/write_data.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,7 +135,7 @@
       <updated>1718513994353</updated>
       <workItem from="1718513995729" duration="14197000" />
       <workItem from="1718549912384" duration="3863000" />
-      <workItem from="1718555126689" duration="468000" />
+      <workItem from="1718555126689" duration="777000" />
     </task>
     <task id="LOCAL-00001" summary="add data from mimic 4">
       <option name="closed" value="true" />
@@ -182,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718555593334</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="use ai">
+      <option name="closed" value="true" />
+      <created>1718555605999</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718555605999</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
