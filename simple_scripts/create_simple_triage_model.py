@@ -7,7 +7,7 @@ from sklearn.metrics import accuracy_score, classification_report, confusion_mat
 import joblib
 
 # Load the dataset
-file_path = 'data/triage.csv'  # Update this with your file path
+file_path = '../data/triage.csv'  # Update this with your file path
 triage_data = pd.read_csv(file_path)
 
 # Impute missing numerical values with the mean
@@ -76,5 +76,5 @@ print('Confusion Matrix:')
 print(confusion_matrix_balanced)
 
 # Save the model and label encoder
-joblib.dump(rf_model_balanced, 'models/triage_model.pkl')
-joblib.dump(label_encoder_acuity, 'models/label_encoder_acuity.pkl')
+joblib.dump(rf_model_balanced, '../models/triage_model.pkl')
+joblib.dump(label_encoder_acuity, '../models/label_encoder_acuity.pkl')
