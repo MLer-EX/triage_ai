@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf74f133-cab5-4371-b66d-c70c09564223" name="Changes" comment="creat BERTS INITIAL" />
+    <list default="true" id="bf74f133-cab5-4371-b66d-c70c09564223" name="Changes" comment="correct workspace.xml">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/berts/bert.py" beforeDir="false" afterPath="$PROJECT_DIR$/berts/bert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/berts/procces_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/berts/procces_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/berts/write_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/berts/write_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,24 +50,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.main.executor": "Run",
-    "Python.oss.executor": "Run",
-    "Python.triage_AI.executor": "Run",
-    "Python.triage_ai.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oss.executor&quot;: &quot;Run&quot;,
+    &quot;Python.procces_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.triage_AI.executor&quot;: &quot;Run&quot;,
+    &quot;Python.triage_ai.executor&quot;: &quot;Run&quot;,
+    &quot;Python.write_data.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Bartar\OneDrive\Apps\Desktop\projects\triage_AI\simple_scripts" />
@@ -134,7 +142,9 @@
       <workItem from="1718513995729" duration="14197000" />
       <workItem from="1718549912384" duration="3863000" />
       <workItem from="1718555126689" duration="1756000" />
-      <workItem from="1718557104365" duration="816000" />
+      <workItem from="1718557104365" duration="859000" />
+      <workItem from="1718605498795" duration="4577000" />
+      <workItem from="1718638065224" duration="2992000" />
     </task>
     <task id="LOCAL-00001" summary="add data from mimic 4">
       <option name="closed" value="true" />
@@ -208,7 +218,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718557844595</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="correct workspace.xml">
+      <option name="closed" value="true" />
+      <created>1718557960117</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1718557960117</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,6 +239,7 @@
     <MESSAGE value="use ai" />
     <MESSAGE value="creaT BERTS INITIAL" />
     <MESSAGE value="creat BERTS INITIAL" />
-    <option name="LAST_COMMIT_MESSAGE" value="creat BERTS INITIAL" />
+    <MESSAGE value="correct workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="correct workspace.xml" />
   </component>
 </project>
