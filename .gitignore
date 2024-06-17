@@ -1,0 +1,47 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore data files
+data/
+*.csv
+*.tsv
+*.json
+*.xls
+*.xlsx
+*.hdf5
+*.sql
+
+# Ignore log files
+*.log
+
+# Ignore environment files
+.env
+.venv/
+env/
+venv/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore output files
+output/
+*.out
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Ignore IntelliJ IDEA project files
+.idea/
