@@ -3,4 +3,4 @@ joblib~=1.4.2
 scikit-learn~=1.4.2
 numpy~=1.26.4
 datasets~=2.19.1
-transformers~=4.41.2
+transformers~=4.17
